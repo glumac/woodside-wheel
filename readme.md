@@ -55,7 +55,7 @@ HINT: You can make the images fit nicely inside their parent elements by setting
 
 HINT 2: To right align "continues" it may be easiest for now to make that element either a heading (like h6) or a link inside a heading and set `text-align: right` on the heading.
 
-HINT 3: For adjusting the vertical space between elements, you can use `margin-top` and `margin-bottom`. For example `margin-bottom: 10px` to put space beneath an element. You should use the browser inspector (right click > inspect element) to determine which elements' margins are causing current spacing and adjust accordingly. If trying to reduce the vertical space between two elements, you may have to remove/reduce the margin-top on the top element (so... margin-bottom: 0; on "Woodside Wheel" and remove/reduce the margin bottom on the element below (so... margin-top: 0; on "Electrify your Bike").
+HINT 3: For adjusting the vertical space between elements, you can use `margin-top` and `margin-bottom`. For example `margin-bottom: 10px` to put space beneath an element. You should use the browser inspector (right click > inspect element) to determine which elements' margins are causing current spacing and adjust accordingly. If trying to reduce the vertical space between two elements, you may have to remove/reduce the margin-botom on the top element (so... margin-bottom: 0; on "Woodside Wheel" and remove/reduce the margin top on the element below (so... margin-top: 0; on "Electrify your Bike").
 
 Bonus (DO AFTER ALL ELSE COMPLETE): look up how to do element hover styles
 
